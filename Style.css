@@ -1,0 +1,45 @@
+header {
+    border-bottom: 6px solid #1681CF;
+
+
+}
+
+footer {
+    border-bottom: 6px solid #1681CF;
+    
+
+}
+
+h1 {
+    color: #FF634E;
+    font-family: 'Irish grover';
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+h3 {
+    color: #DFFF4E;
+    font-family: 'Arial';
+    text-align: center;
+}
+
+body {
+    background-color: #09840E;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+#nome-usuario {
+    font-weight: bold;
+    color: #DE7D0A
+
+}
+.texto-ingles{ 
+    font-style: italic;
+  }
+ 
