@@ -14,12 +14,16 @@ h1 {
     color: #FF634E;
     font-family: 'Irish grover';
     text-align: center;
+    margin-left: 400px;  /* Ajuste o valor conforme necessário */
+    margin-right: 400px; /* Ajuste o valor conforme necessário */
 }
 
 h2 {
     color: white;
     font-family: 'Times New Roman';
     text-align: center;
+    margin-left: 400px;  /* Ajuste o valor conforme necessário */
+    margin-right:400px; /* Ajuste o valor conforme necessário */
 }
 
 h3 {
